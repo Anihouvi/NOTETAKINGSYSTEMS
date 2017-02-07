@@ -9,7 +9,7 @@
             <!-- <h2>Note Taking System</h2> -->
             
             <br><br><br>
-            <p>Store and organise your thoughts in notebook and NoteBook web app makes this easier than ever</p>
+            <p>Store and organise your thoughts in notebook and NoteBook app makes this easier than ever!!</p>
             <br><br>
 
             <p>
