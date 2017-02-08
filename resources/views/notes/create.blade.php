@@ -10,11 +10,6 @@
 <script type="text/javascript">
   tinymce.init({
     selector: '#mytextarea',
-    forced_root_block : "",
-
-    content_css : "/css/tinyMCE.css",
-          plugins: ["image","print","table","code"],
-              image_advtab: true
 
      /* theme of the editor */
     theme: "modern",
