@@ -10,6 +10,7 @@
 <script type="text/javascript">
   tinymce.init({
     selector: '#mytextarea',
+    
 
      /* theme of the editor */
     theme: "modern",

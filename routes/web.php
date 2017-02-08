@@ -32,3 +32,4 @@ Route::get('/home', 'HomeController@index');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index');
+Route::get('/notebooks/{notebooks}','NotebooksController@edit');

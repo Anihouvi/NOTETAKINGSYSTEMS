@@ -8,7 +8,7 @@
             <input class="form-control" name="name" placeholder="input" type="text" value="{{ $notebook->name }}">
             </input>
         </div>
-</form>
+
         <input type="submit" class="btn btn-primary" value="Done">
 
         <form action="{{route('notebooks.delete',$notebook->id)}}" method="POST">

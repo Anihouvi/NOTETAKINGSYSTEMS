@@ -70,7 +70,7 @@ class NotebooksController extends Controller
      */
     public function edit(Notebook $notebook)
     {
-        // $notebook=Notebook::where('',$id)->first();
+        $notebook=Notebook::where('',$id)->first();
         return view('notebooks.edit', ['notebook' => $notebook]);//compact($notebook));
         
     }

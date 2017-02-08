@@ -19,8 +19,19 @@
         "classmap": [
             "database"
         ],
+         
+         "files": [
+            
+            "Packages/PHPStencil/src/Http/helpers.php"
+            "src/Http/helpers.php"
+
+        ],
+
         "psr-4": {
-            "App\\": "app/"
+            "App\\": "app/",
+                  "EONConsulting\\PHPStencil\\": "Packages/PHPStencil/src",
+            "Tsugi\\": "Packages/PHPStencil/include/tsugi"
+
         }
     },
     "autoload-dev": {
