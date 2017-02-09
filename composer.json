@@ -29,8 +29,7 @@
 
         "psr-4": {
             "App\\": "app/",
-                  "EONConsulting\\PHPStencil\\": "Packages/PHPStencil/src",
-            "Tsugi\\": "Packages/PHPStencil/include/tsugi"
+           
 
         }
     },
